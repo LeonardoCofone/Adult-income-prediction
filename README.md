@@ -67,4 +67,7 @@ Metrics evaluated include:
 
 - Saved the final stacking model and tuned threshold using `joblib` for future use.
   
-### Thank you all
+### Author:
+
+**Leonardo Cofone**
+Machine Learning & Deep Learning Specialist
